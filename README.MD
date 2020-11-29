@@ -1,1 +1,1 @@
-![Pycharm Data Query]: (screenshots/query.png)
+[Pycharm Data Query]: /screenshots/query.png
