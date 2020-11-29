@@ -1,1 +1,4 @@
-[Pycharm Data Query]: /screenshots/query.png
+# SQL Query
+![SQL Screenshot](screenshots/query.png)
+# Postman
+![POstman Screenshot](screenshots/postman.png)
