@@ -1,0 +1,1 @@
+![Pycharm Data Query]: (screenshots/query.png)
